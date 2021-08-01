@@ -8,5 +8,7 @@ public class utility {
 	{
 		return new Date();       //ctrl+shift+o
 	}
-
-}
+    public void m1() {
+    	System.out.println("m1().....abcd");
+    }
+}//ctrl ++
